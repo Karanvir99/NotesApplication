@@ -1,0 +1,4 @@
+1	Object Oriented Programming	2018-03-31 23:23:04	COMP1752
+2	Computer Systems Architectures	2018-03-31 23:23:31	COMP1588
+3	System Development	2018-03-31 23:24:08	COMP1713
+4	Analytical Methods for Computing	2018-03-31 23:24:59	MATH1111
